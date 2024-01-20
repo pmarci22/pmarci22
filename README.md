@@ -25,3 +25,5 @@ I'm a passionate Computer Engineering, B.Sc. student based in Hungary, currently
 
 Feel free to explore my repositories and reach out if you have any questions or collaboration ideas! 🚀
 
+## Stats
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=pmarci22&show_icons=true&locale=en" alt="pmarci22" /></p>
