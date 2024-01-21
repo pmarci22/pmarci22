@@ -12,7 +12,7 @@ I'm a passionate Computer Engineering, B.Sc. student based in Hungary, currently
 
 - 👾 Programming Languages: C, C++, Python (basic)
 - 🚀 Web Development: HTML, CSS, JavaScript (basic)
-- 🛠️ Tools: Git, Visual Studio Code, Code::Blocks, CLion
+- 🛠️ Tools: Git, Visual Studio Code, Code::Blocks, CLion, PyCharm
 
 ## Connect with Me
 
