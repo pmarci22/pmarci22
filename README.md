@@ -29,5 +29,3 @@ Feel free to explore my repositories and reach out if you have any questions or 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=pmarci22&show_icons=true&locale=en&layout=compact" alt="pmarci22" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=pmarci22&show_icons=true&locale=en" alt="pmarci22" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pmarci22&" alt="pmarci22" /></p>
