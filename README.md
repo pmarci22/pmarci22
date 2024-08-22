@@ -5,14 +5,14 @@ I'm a passionate Computer Engineering, B.Sc. student based in Hungary, currently
 ## About Me
 
 - 🎓 Studying Computer Science
-- 💻 Currently learning C++
+- 💻 Currently learning Java
 - 🌐 Love exploring new technologies and frameworks
 
 ## Skills
 
 - 👾 Programming Languages: C, C++, Python (basic)
 - 🚀 Web Development: HTML, CSS, JavaScript (basic)
-- 🛠️ Tools: Git, Visual Studio Code, Code::Blocks, CLion, PyCharm
+- 🛠️ Tools: Git, Visual Studio Code, Code::Blocks, CLion, PyCharm, IntelliJ
 
 ## Connect with Me
 
